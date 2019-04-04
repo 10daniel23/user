@@ -12,13 +12,7 @@ public class UserApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserApplication.class, args);
-		//Es una prueba de un nuevo commit
-		
-		//QUe pasa ahora?aqweqwe
-		
-		
-		///saludos.
-		//3er commit desde Github
+		//Limpieza
 	}
 
 }
